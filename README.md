@@ -1,7 +1,6 @@
 # Blood Bank Management System
 
-A SQL-based system to manage blood donations, inventory, and donor records efficiently.
-
+A database-driven system to manage blood bank operations, including donor registration, blood inventory, and request tracking.
 ## Features
 - Register and manage donor information
 - Track blood inventory by type and quantity
